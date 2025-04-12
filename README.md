@@ -21,11 +21,16 @@
     <a href="https://t.me/reddsokol" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
+     <a href="https://wa.me/79992002140" target="_blank">
+      <img src="https://raw.githubusercontent.com/redsokol/redsokol/refs/heads/main/dist/icon-wa.png" width="40" height="40" alt="whatsapp" />
+    </a>
+
 
   </div>
 
 
 ### Ниже представлен стек, с которым я обучался и работал: 
+
 ---
 
 ### 📁 Тестовая документация:
@@ -65,7 +70,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/redsokol/redsokol/refs/heads/main/dist/icon-sb.png" title="sublibe" alt="sublibe" width="40" height="40"/>&nbsp
- 
 
   
 </div>
