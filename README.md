@@ -56,9 +56,13 @@
 
 ---
 
-### 💾 Средства разработки и хранения данных:
+### 💻💾 Средства разработки и хранения данных:
 
 <div>
+  <img src="https://raw.githubusercontent.com/redsokol/redsokol/refs/heads/main/dist/icon-5.png" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/redsokol/redsokol/refs/heads/main/dist/icon-css.png" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/redsokol/redsokol/refs/heads/main/dist/icon-js.png" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+   <img src="https://raw.githubusercontent.com/redsokol/redsokol/refs/heads/main/dist/icon-php.png" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
 </div>
 
